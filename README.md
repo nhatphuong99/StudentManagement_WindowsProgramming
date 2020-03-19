@@ -1,1 +1,3 @@
-# c4w---17clc2---1753089-pj2
+# Thong tin sinh vien
+Ho ten: Nguyen Ly Nhat Phuong
+MSSV: 1753089
